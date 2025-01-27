@@ -1,2 +1,21 @@
-# Sign-up-Page
-This project is a personal SIGN UP and SIGN IN page created using HTML, CSS and JavaScript. It acts as a digital portfolio to display my skills, projects, and experience. The focus is on a clean, responsive design to showcase my coding journey and work in a user-friendly way, giving visitors a clear and professional view of my development projects.
+# Login-Page 
+This is a login page made using HTML5 JavaScript CSS. All the additions are appreciated so feel free to add more features by Rohan and akshay sharma
+
+
+Looking forward to add DataBase and more features.....
+
+
+
+Login Page's Preview in interactive way:-
+
+
+
+Login Page's Preview:-
+
+
+1)Sign Up Page:-
+![image](https://user-images.githubusercontent.com/74227860/114296125-0c45c300-9ac7-11eb-9009-dd609428426f.png)
+
+
+2)Login Page:-
+![image](https://user-images.githubusercontent.com/74227860/114296165-3f885200-9ac7-11eb-8627-53c3030e97f6.png)
